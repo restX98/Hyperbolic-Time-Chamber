@@ -13,6 +13,7 @@ string getAttribute(string str, string attribute);
  * I know!
  * Tree Data Structure is the best way.
  * I'm just struggling with syntax and basics.
+ * Also stringstream for splitting is a better choice.
  */
 int main() {
 
